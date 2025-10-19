@@ -2,8 +2,8 @@
  * Author: Gian Alingog
  * Date: 2025-10-17
  * Source: unknown
- * Description: XOR Basis, support various XOR queries
- * This specific version supports range queries by using a time dimension
+ * Description: XOR Basis, support various XOR queries.
+ * This specific version supports range queries by using a time dimension.
  * Time: O(log_2 maxA)
  * Status: Tested on CF
  */

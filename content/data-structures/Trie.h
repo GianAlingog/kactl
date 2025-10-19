@@ -2,8 +2,8 @@
  * Author: Gian Alingog
  * Date: 2025-10-17
  * Source: unknown
- * Description: Trie, support min and max XOR queries
- * Perform a sweep for prefix and suffix min / max XOR
+ * Description: Trie, support min and max XOR queries.
+ * Perform a sweep for prefix and suffix min / max XOR.
  * Time: O(log_2 maxA)
  * Status: Tested on CF
  */
