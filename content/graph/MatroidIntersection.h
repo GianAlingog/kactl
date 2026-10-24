@@ -12,7 +12,7 @@
  * The matroid is given an int representing the element, and is expected to
  * convert it (e.g: the color or the endpoints)
  * Pass the matroid with more expensive add/clear operations to M1.
- * Time: R^2N(M2.add + M1.check + M2.check) + R^3 M1.add + R^2 M1.clear + RN M2.clear
+ * Time: O(R^2N(M2.add + M1.check + M2.check) + R^3 M1.add + R^2 M1.clear + RN M2.clear)
  * Status: Tested on SWERC 2011D, Pick Your Own Nim
  * Usage:
  * Details:
